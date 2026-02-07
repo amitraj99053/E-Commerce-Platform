@@ -3,7 +3,7 @@ import React, { Fragment } from 'react';
 const Footer = () => {
     return (
         <div>
-            <p>All rights reserved by Scaler</p>
+            <p>All rights reserved by Amit Kumar</p>
         </div>
     );
 };
